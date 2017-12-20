@@ -5,6 +5,7 @@ import seaborn as sns
 import pandas as pd
 import pandas_datareader.data as web
 
+
 sns.set_context("poster")
 sns.set_style("ticks")
 
@@ -31,7 +32,7 @@ for i in range(0, len(tickers)):
     tickers[i] = tickers[i].strip()
 indexes_max = []
 tickers_max = []
-
+#jdjfsldjosidjfio
 print('In Processing. Please be patient.')
 
 
